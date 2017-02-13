@@ -7,6 +7,8 @@ require './filters'
 
 ## Your test code can go here
 
+# Pry debugger
 # binding.pry
 
-pp @candidates
+# Pretty print candidates
+# pp @candidates
